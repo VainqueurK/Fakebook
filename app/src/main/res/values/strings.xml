@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fakebook</string>
+    <string name="title_activity_login">Fakebook 5%</string>
+    <string name="title_activity_registration">Fakebook 5%</string>
+    <string name="title_activity_homepage">Home</string>
+    <string name="loginText">Login</string>
+    <string name="regText">Register</string>
+    <string name="newUser">New to Fakebook? Register</string>
+    <string name="oldUser">Existing User? login</string>
+    <string name="emailText">Email</string>
+    <string name="pwordText">Password</string>
+    <string name="usrnameText">Username</string>
+    <string name="welcomeText">Hey, welcome back</string>
+    <string name="testUser">Guest</string>
+    <string name="passMatch">Min. 8 characters, 1 uppercase and 1 lowercase</string>
+    <string name="pass_error">invalid Password, Min. 8 characters, 1 uppercase and 1 lowercase</string>
+    <string name="email_error">Please type a valid email</string>
+    <string name="username_error">invalid Username</string>
+    <string name="gen_error">Cannot leave this field empty</string>
+
+</resources>

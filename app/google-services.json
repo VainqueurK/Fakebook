@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282951035617",
+    "firebase_url": "https://vancoandco.firebaseio.com",
+    "project_id": "vancoandco",
+    "storage_bucket": "vancoandco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282951035617:android:3519bf56ab6fbb16c2a5a0",
+        "android_client_info": {
+          "package_name": "com.example.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282951035617-hdk89qo1750qouebfddb1kk2cb1sps9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "744fac801fff028822835ccd6e1e7886c42ede2c"
+          }
+        },
+        {
+          "client_id": "282951035617-516le6jg6568gob6tj2b2imknll2r0lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnb-nHk_z9ygJGOdPRYOG-8Z-mucShbZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282951035617-516le6jg6568gob6tj2b2imknll2r0lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
